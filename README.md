@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pony778
-- 👀 I’m interested in ... Programming,PC game and girls.
+- 👀 I’m interested in ... Programming,PC games and girls.
 - 🌱 I’m currently learning ...Web Dev, Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...amipony778@gmail.com
 
 <!---
